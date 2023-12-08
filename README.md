@@ -10,8 +10,7 @@
 <br>其中，《思考与命运》是最璀璨的星星。
 
 2.薄伽梵歌, Bhagavad Gita
-
-3. 奥义书, Upanishad
+<br>3. 奥义书, Upanishad
 
 4.柏拉图全集。
 
