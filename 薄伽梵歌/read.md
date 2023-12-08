@@ -1,7 +1,6 @@
 此中文翻译仅供我个人纪念使用。
 
-在线阅读：https://docs.qq.com/doc/DQVB5Vm9janRyRkZW
-
+在线阅读：https://docs.qq.com/doc/DRVNXcFdoTk1qT3dR
 
 
 英文翻译版权所有 © 1986 Barbara Stoler Miller。
