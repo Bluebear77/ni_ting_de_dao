@@ -26,3 +26,29 @@ This largely explains what may appear to be differences between his earlier and 
 01_Will 意志: https://docs.qq.com/doc/DQVR6WkVsTGVRTnpO
 
 02_Doubt 怀疑: https://docs.qq.com/doc/DQXV2aEJwRmJ4Sm50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 原文：https://catalog.hathitrust.org/Record/010314203
+
+如果我还有时间，我会翻译《道》其他作者的文摘
