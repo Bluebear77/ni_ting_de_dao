@@ -27,6 +27,11 @@ This largely explains what may appear to be differences between his earlier and 
 
 02_Doubt 怀疑: https://docs.qq.com/doc/DQXV2aEJwRmJ4Sm50
 
+03_HOPE AND FEAR 希望和恐惧:
+https://docs.qq.com/doc/DQVFVY3JyS0VjT0FU
+
+
+
 
 
 
