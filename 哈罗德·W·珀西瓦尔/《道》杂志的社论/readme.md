@@ -19,7 +19,8 @@ This largely explains what may appear to be differences between his earlier and 
 这在很大程度上解释了他早期和晚期作品之间的差异。
 
 
-# 原文：https://thewordfoundation.org/early-editorials/
+## 原文：
+https://thewordfoundation.org/early-editorials/
 
 00_Sex 性： https://docs.qq.com/doc/DQWtJdlBQWGVYYVpk
 
@@ -29,6 +30,11 @@ This largely explains what may appear to be differences between his earlier and 
 
 03_HOPE AND FEAR 希望和恐惧:
 https://docs.qq.com/doc/DQVFVY3JyS0VjT0FU
+
+04_:
+
+
+_数字仅代表我翻译的顺序。_
 
 
 
