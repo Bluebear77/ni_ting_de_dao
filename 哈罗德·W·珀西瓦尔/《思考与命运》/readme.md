@@ -11,3 +11,5 @@ https://thewordfoundation.org/thinking-and-destiny/
 
 2.1.2_灵魂：https://docs.qq.com/doc/DRWF4ZlhFWU1PSlhP
 
+_replace: 操作者<>行动者_
+
