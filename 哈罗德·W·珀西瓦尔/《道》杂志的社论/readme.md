@@ -31,8 +31,8 @@ https://thewordfoundation.org/early-editorials/
 03_HOPE AND FEAR 希望和恐惧:
 https://docs.qq.com/doc/DQVFVY3JyS0VjT0FU
 
-04_:
-
+04_:BIRTH-DEATH—DEATH-BIRTH  出生-死亡—死亡-出生
+https://docs.qq.com/doc/DQXloalF2cnJ3ZXJu
 
 _数字仅代表我翻译的顺序。_
 
