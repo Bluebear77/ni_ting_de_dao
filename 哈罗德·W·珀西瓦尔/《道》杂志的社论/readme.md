@@ -59,7 +59,10 @@ _数字仅代表我翻译的顺序。_
 
 
 
-
-### 原文：https://catalog.hathitrust.org/Record/010314203
+<br/>
+<br/>
+<br/>
 
 如果我还有时间，我会翻译《道》其他作者的文摘
+### 原文：https://catalog.hathitrust.org/Record/010314203
+
