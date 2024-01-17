@@ -37,6 +37,8 @@ https://docs.qq.com/doc/DQXloalF2cnJ3ZXJu
 
 05_:ATMOSPHERES 气场 https://docs.qq.com/doc/DQXdxRG9zT2lDVm5D
 
+06_BREATH呼吸 https://docs.qq.com/doc/DQUFOdUdlUW5jUkVF
+
 
 _数字仅代表我翻译的顺序。_
 
