@@ -22,6 +22,8 @@ This largely explains what may appear to be differences between his earlier and 
 ## 原文：
 https://thewordfoundation.org/early-editorials/
 
+## 译文：
+
 00_Sex 性： https://docs.qq.com/doc/DQWtJdlBQWGVYYVpk
 
 01_Will 意志: https://docs.qq.com/doc/DQVR6WkVsTGVRTnpO
