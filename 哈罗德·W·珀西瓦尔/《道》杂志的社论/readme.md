@@ -44,6 +44,8 @@ https://docs.qq.com/doc/DQXloalF2cnJ3ZXJu
 
 _数字仅代表我翻译的顺序。_
 
+### 建议使用链接阅读，因为会有校正。
+
 
 
 
