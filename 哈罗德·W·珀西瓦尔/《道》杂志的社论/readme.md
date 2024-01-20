@@ -39,6 +39,8 @@ https://docs.qq.com/doc/DQXloalF2cnJ3ZXJu
 
 06_BREATH呼吸 https://docs.qq.com/doc/DQUFOdUdlUW5jUkVF
 
+07_GLAMOUR 魅惑 https://docs.qq.com/doc/DQXdvbmRNREpiT0Nn
+
 
 _数字仅代表我翻译的顺序。_
 
