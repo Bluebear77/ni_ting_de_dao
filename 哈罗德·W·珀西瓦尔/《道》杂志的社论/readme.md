@@ -24,24 +24,22 @@ https://thewordfoundation.org/early-editorials/
 
 ## 译文：
 
-00_Sex 性： https://docs.qq.com/doc/DQWtJdlBQWGVYYVpk
+00 Sex 性： https://docs.qq.com/doc/DQWtJdlBQWGVYYVpk
 
-01_Will 意志: https://docs.qq.com/doc/DQVR6WkVsTGVRTnpO
+01 Will 意志: https://docs.qq.com/doc/DQVR6WkVsTGVRTnpO
 
-02_Doubt 怀疑: https://docs.qq.com/doc/DQXV2aEJwRmJ4Sm50
+02 Doubt 怀疑: https://docs.qq.com/doc/DQXV2aEJwRmJ4Sm50
 
-03_HOPE AND FEAR 希望和恐惧:
-https://docs.qq.com/doc/DQVFVY3JyS0VjT0FU
+03 HOPE AND FEAR 希望和恐惧: https://docs.qq.com/doc/DQVFVY3JyS0VjT0FU
 
-04_:BIRTH-DEATH—DEATH-BIRTH  出生-死亡—死亡-出生
-https://docs.qq.com/doc/DQXloalF2cnJ3ZXJu
+04 BIRTH-DEATH—DEATH-BIRTH  出生-死亡—死亡-出生: https://docs.qq.com/doc/DQXloalF2cnJ3ZXJu
 
 
-05_:ATMOSPHERES 气场 https://docs.qq.com/doc/DQXdxRG9zT2lDVm5D
+05 ATMOSPHERES 气场: https://docs.qq.com/doc/DQXdxRG9zT2lDVm5D
 
-06_BREATH呼吸 https://docs.qq.com/doc/DQUFOdUdlUW5jUkVF
+06 BREATH 呼吸: https://docs.qq.com/doc/DQUFOdUdlUW5jUkVF
 
-07_GLAMOUR 魅惑 https://docs.qq.com/doc/DQXdvbmRNREpiT0Nn
+07 GLAMOUR 魅惑: https://docs.qq.com/doc/DQXdvbmRNREpiT0Nn
 
 
 _数字仅代表我翻译的顺序。_
