@@ -2,7 +2,8 @@
 
 在线阅读：
 
-序言 THE BHAGAVAD-GITA 博伽梵歌：` https://docs.qq.com/doc/DQVJpb3BYQ1JYWnpj `
+序言 THE BHAGAVAD-GITA 博伽梵歌：https://docs.qq.com/doc/DQVJpb3BYQ1JYWnpj 
+
 
 
 英文翻译版权所有 © 1986 Barbara Stoler Miller。
