@@ -6,10 +6,10 @@
 第一课 THE BHAGAVAD-GITA 博伽梵歌: https://docs.qq.com/doc/DQUdzc0FXYmlwY29r <br/>
 第二课 THE BHAGAVAD-GITA 博伽梵歌: https://docs.qq.com/doc/DQXRqcFpKY2lXSEd5 <br/>
 
-【腾讯文档】第三课 THE BHAGAVAD-GITA 博伽梵歌
+第三课 THE BHAGAVAD-GITA 博伽梵歌
 https://docs.qq.com/doc/DQUxuSllqWUhDQkNC
 
-【腾讯文档】第四课 THE BHAGAVAD-GITA 博伽梵歌
+第四课 THE BHAGAVAD-GITA 博伽梵歌
 https://docs.qq.com/doc/DQWVqbWJrQlZwaEpk
 
 
