@@ -23,6 +23,12 @@ https://docs.qq.com/doc/DQUJ1bXhZbEVUV1lK
 第六课 THE BHAGAVAD-GITA 博伽梵歌
 https://docs.qq.com/doc/DQXd0ZlZ6cGxrdVl2
 
+第七课 THE BHAGAVAD-GITA 博伽梵歌
+https://docs.qq.com/doc/DQUR2T2xpZHRWSFhm
+
+第八与第九课 THE BHAGAVAD-GITA 博伽梵歌
+https://docs.qq.com/doc/DQW1CYlBPVlR0a2Jv
+
 
 英文翻译版权所有 © 1986 Barbara Stoler Miller。
 本书的任何部分均不得以任何形式或任何方式（电子或机械）复制或传播，
