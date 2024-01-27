@@ -2,9 +2,14 @@
 
 在线阅读：
 
-序言 THE BHAGAVAD-GITA 博伽梵歌：https://docs.qq.com/doc/DQVJpb3BYQ1JYWnpj <br/>
-第一课 THE BHAGAVAD-GITA 博伽梵歌: https://docs.qq.com/doc/DQUdzc0FXYmlwY29r <br/>
-第二课 THE BHAGAVAD-GITA 博伽梵歌: https://docs.qq.com/doc/DQXRqcFpKY2lXSEd5 <br/>
+序言 THE BHAGAVAD-GITA 博伽梵歌
+https://docs.qq.com/doc/DQVJpb3BYQ1JYWnpj 
+
+第一课 THE BHAGAVAD-GITA 博伽梵歌:
+https://docs.qq.com/doc/DQUdzc0FXYmlwY29r
+
+第二课 THE BHAGAVAD-GITA 博伽梵歌
+https://docs.qq.com/doc/DQXRqcFpKY2lXSEd5
 
 第三课 THE BHAGAVAD-GITA 博伽梵歌
 https://docs.qq.com/doc/DQUxuSllqWUhDQkNC
