@@ -41,6 +41,8 @@ https://thewordfoundation.org/early-editorials/
 
 07 GLAMOUR 魅惑: https://docs.qq.com/doc/DQXdvbmRNREpiT0Nn
 
+08 HEAVEN 天堂 https://docs.qq.com/doc/DQVB2d0FoVXV4dnRP
+
 
 _数字仅代表我翻译的顺序。_
 
