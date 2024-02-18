@@ -46,6 +46,8 @@ https://thewordfoundation.org/early-editorials/
 09 HELL 地狱 
 https://docs.qq.com/doc/DQVlFRWFERXhiU29s
 
+10 IMAGINATION 想象力 
+https://docs.qq.com/doc/DQWFnam91ak9yc0ZM
 
 _数字仅代表我翻译的顺序。_
 
