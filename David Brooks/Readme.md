@@ -2,7 +2,7 @@
 
 David Brooks (born August 11, 1961)[1] is a Canadian-born American conservative political and cultural commentator who writes for The New York Times
 
-在这里，我将陆续翻译他的书《洞察人心的艺术：深刻看见他人，深刻被他人看见》
+在这里，我将陆续翻译他的书《如何看清一个人：深刻看见他人并被他人深刻看见的艺术》
 
 In here, I will successively translate his book: _How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen_.
 
