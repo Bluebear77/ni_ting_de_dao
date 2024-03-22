@@ -1,3 +1,11 @@
+大卫·布鲁克斯（David Brooks，1961 年 8 月 11 日出生）[1] 是加拿大出生的美国保守派政治和文化评论员，为《纽约时报》撰稿。
 
-David Brooks,大卫·布鲁克斯,美国专栏作家和评论家。
-在这里，我将陆续翻译他的书《How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen》
+David Brooks (born August 11, 1961)[1] is a Canadian-born American conservative political and cultural commentator who writes for The New York Times
+
+在这里，我将陆续翻译他的书《洞察人心的艺术：深刻看见他人，深刻被他人看见》
+
+In here, I will successively translate his book: _How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen_.
+
+
+
+
