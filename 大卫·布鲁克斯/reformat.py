@@ -31,6 +31,6 @@ def reformat_text(input_file, output_file):
             file.write(line + "\n\n")
 
 # Example usage
-input_file_path = 'input.md'  # Path to your input .md file
+input_file_path = '1.1 被看见的能力.md'  # Path to your input .md file
 output_file_path = 'output.md'  # Path to your desired output .md file
 reformat_text(input_file_path, output_file_path)
