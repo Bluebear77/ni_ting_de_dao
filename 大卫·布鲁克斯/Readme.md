@@ -5,7 +5,7 @@ David Brooks (born August 11, 1961) is a Canadian-born American conservative pol
 <br/>
 <br/>
 
-在这里，我将陆续翻译他的书《如何看清一个人：深刻看见他人并被他人深刻看见的艺术》
+在这里，我将陆续翻译他的书《如何知悉一个人：深刻看见他人和被他人深刻看见的艺术》
 
 In here, I will successively translate his book: _How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen_.
 
