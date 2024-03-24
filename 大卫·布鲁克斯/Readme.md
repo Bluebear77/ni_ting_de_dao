@@ -1,6 +1,6 @@
-大卫·布鲁克斯（David Brooks，1961 年 8 月 11 日出生）[1] 是加拿大出生的美国保守派政治和文化评论员，为《纽约时报》撰稿。
+大卫·布鲁克斯（David Brooks，1961 年 8 月 11 日出生）是加拿大出生的美国保守派政治和文化评论员，为《纽约时报》撰稿。
 
-David Brooks (born August 11, 1961)[1] is a Canadian-born American conservative political and cultural commentator who writes for The New York Times.
+David Brooks (born August 11, 1961) is a Canadian-born American conservative political and cultural commentator who writes for The New York Times.
 <br/>
 <br/>
 <br/>
