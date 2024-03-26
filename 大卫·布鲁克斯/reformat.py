@@ -25,12 +25,15 @@ def reformat_text(input_file, output_file):
     if sentence:
         merged_lines.append(sentence)
 
-    # Write to the output file with double newlines for paragraphs
+    # Write to the output file, adding <br/> before double newlines for paragraphs
     with open(output_file, 'w', encoding='utf-8') as file:
         for line in merged_lines:
-            file.write(line + "\n\n")
+            if line:
+                file.write(line + "<br/>\n\n")  # Add <br/> at the end of a paragraph
+            else:
+                file.write("\n")  # Keep paragraph breaks as is
 
 # Example usage
-input_file_path = '1.1 被看见的能力.md'  # Path to your input .md file
+input_file_path = 'test.txt'  # Path to your input .md file
 output_file_path = 'output.md'  # Path to your desired output .md file
 reformat_text(input_file_path, output_file_path)
