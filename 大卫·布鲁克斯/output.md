@@ -6,7 +6,9 @@ In short, everybody had their eyes open, and nobody seemed to be seeing each oth
 
 I’m proud of that book. But now I’m after bigger game.
 
-I’m bored with making generalizations about groups. I want to see people deeply, one by one. You’d think this would be kind of easy. You open your eyes, direct your gaze, and see them. But most of us have all sorts of inborn proclivities that prevent us from perceiving others accurately. The tendency to do the instant size-up is just one of the Diminisher tricks. Here are a few others: EGOTISM. The number one reason people don’t see others is that they are too self-centered to try. I can’t see you because I’m all about myself. Let me tell you my opinion.
+I’m bored with making generalizations about groups. I want to see people deeply, one by one. You’d think this would be kind of easy. You open your eyes, direct your gaze, and see them. But most of us have all sorts of inborn proclivities that prevent us from perceiving others accurately. The tendency to do the instant size-up is just one of the Diminisher tricks. Here are a few others: 
+
+**EGOTISM.** The number one reason people don’t see others is that they are too self-centered to try. I can’t see you because I’m all about myself. Let me tell you my opinion.
 
 Let me entertain you with this story about myself. Many people are unable to step outside of their own points of view. They are simply not curious about other people.
 
