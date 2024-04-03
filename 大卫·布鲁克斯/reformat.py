@@ -34,6 +34,6 @@ def reformat_text(input_file, output_file):
                 file.write("\n")  # Keep paragraph breaks as is
 
 # Example usage
-input_file_path = 'test.txt'  # Path to your input .md file
+input_file_path = '1.3启迪.md'  # Path to your input .md file
 output_file_path = 'output.md'  # Path to your desired output .md file
 reformat_text(input_file_path, output_file_path)
