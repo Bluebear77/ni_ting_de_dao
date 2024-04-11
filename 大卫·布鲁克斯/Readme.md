@@ -10,7 +10,7 @@ David Brooks (born August 11, 1961) is a Canadian-born American conservative pol
 In here, I will successively translate his book: _How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen_.
 
 
-pdf2md:https://pdf2md.morethan.io/
+pdf2md: https://pdf2md.morethan.io/
 
 md to pdf: https://md2pdf.netlify.app/
 
