@@ -84,5 +84,5 @@ Those who are nearly ready will understand, even though they do not at once choo
 
 
 
-Copyright 1980 by The Word Foundation, Inc.
-
+原文：
+https://thewordfoundation.org/hlib/democracy-is-self-government/part-3-section-07.html
