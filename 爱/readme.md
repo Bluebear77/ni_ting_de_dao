@@ -1,0 +1,2 @@
+a way of paying attention, which is the purest form of love.
+一种给予关注的方式，乃是爱最纯真的形态。
