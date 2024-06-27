@@ -1,2 +1,7 @@
-a way of paying attention, which is the purest form of love. <br/>
-一种给予关注的方式，乃是爱最纯真的形态。
+让我的爱
+
+像阳光一般将你围绕，
+
+同时又给你
+
+璀璨的自由。
