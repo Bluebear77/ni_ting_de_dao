@@ -1,7 +1,7 @@
 
 "然后，天使在圣门前推扉启路，<br/>
 说：“进去吧；不过你们要知道，<br/>
-**往后张望的，都要从里面退出[39]"**<br/>
+**往后张望的，都要从里面退出[39]。"**<br/>
 
 
 
@@ -12,8 +12,8 @@
 十六节，“罗得的妻子在后边回头一看，就变成了一根盐柱”。
 
 《圣经·
-路加福音》第九章第六十二节里，耶稣有类似的话：“Nemo mittens
- manum suam ad aratrum et respiciens retro，aptus est regno Dei.”
+路加福音》第九章第六十二节里，耶稣有类似的话：<br/>
+“Nemo mittens manum suam ad aratrum et respiciens retro，aptus est regno Dei.”<br/>
 **“手扶着犁向后看的，不配进神的国。”**
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
